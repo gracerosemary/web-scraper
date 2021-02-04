@@ -2,6 +2,8 @@
 **Author**: Grace Choi  
 **Version**: 1.0.0  
 
+PR Link: https://github.com/gracerosemary/web-scraper/pull/1
+
 ## Overview
 1. Select an interesting Wiki Page (GameStop)
 2. Report the number of citations needed
