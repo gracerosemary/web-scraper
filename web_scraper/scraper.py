@@ -64,7 +64,7 @@ def get_citations_needed_section(url):
             print(f"Relevant passage:\n{result.text}")
             # return f"Relevant passage:\n{result.text}"
 
-if __name__ == '__main__':
-    url = 'https://en.wikipedia.org/wiki/GameStop'
-    # print(get_citations_needed_count(url))
-    print(get_citations_needed_report(url))
+# if __name__ == '__main__':
+#     url = 'https://en.wikipedia.org/wiki/GameStop'
+#     # print(get_citations_needed_count(url))
+#     print(get_citations_needed_report(url))
